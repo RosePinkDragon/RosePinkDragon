@@ -1,8 +1,8 @@
-- 👋, I’m @RosePinkDragon aka Moheb Dabilkar
-- ❤️ at first 👀 with JS
-- 🌱 in python and microservices
-- 💞️ to learn
-- 📫 me at developer.moheb@gmail.com
+👋, I’m @RosePinkDragon aka Moheb Dabilkar
+❤️ at first 👀 with JS
+🌱 in python and microservices
+💞️ to learn
+📫 me at developer.moheb@gmail.com
 
 <!---
 RosePinkDragon/RosePinkDragon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
